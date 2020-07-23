@@ -1,2 +1,2 @@
 # web-movieapp 
-built using omdbapi key ,helps in finding the movies.
+web app built with node.js using OMDB-API key ,helps in finding the movies.
